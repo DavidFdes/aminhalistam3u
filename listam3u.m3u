@@ -1,0 +1,340 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Pipoca HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/TcPipoca.png" group-title="Canais BR | Legendados",Telecine Pipoca HD LEG
+http://supertv.io:80/1079604/593320/101153.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/TCPremium.png" group-title="Canais BR | Legendados",Telecine Premium HD LEG
+http://supertv.io:80/1079604/593320/101152.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/Tc%20Action.png" group-title="Canais BR | Legendados",Telecine Action HD LEG
+http://supertv.io:80/1079604/593320/101155.ts
+#EXTINF:-1 tvg-id="TCTCHHD" tvg-name="Telecine Touch HD LEG" tvg-logo="http://uploaddeimagens.com.br/images/003/638/025/original/Design_sem_nome_%281%29.png?1642615660" group-title="Canais BR | Legendados",Telecine Touch HD LEG
+http://supertv.io:80/1079604/593320/101151.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/TcFun.png" group-title="Canais BR | Legendados",Telecine Fun HD LEG
+http://supertv.io:80/1079604/593320/101154.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD LEG" tvg-logo="http://uploaddeimagens.com.br/images/003/638/368/original/Design_sem_nome_%2812%29.png?1642620764" group-title="Canais BR | Legendados",Telecine Cult HD LEG
+http://supertv.io:80/1079604/593320/101142.ts
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/HBO.png" group-title="Canais BR | Legendados",HBO HD LEG
+http://supertv.io:80/1079604/593320/101159.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme  SD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/hbo%20xtreme.png" group-title="Canais BR | Legendados",HBO Xtreme  SD LEG
+http://supertv.io:80/1079604/593320/101157.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/HBOPop.png" group-title="Canais BR | Legendados",HBO POP HD LEG
+http://supertv.io:80/1079604/593320/101148.ts
+#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO PLUS HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/HBOPlus.png" group-title="Canais BR | Legendados",HBO PLUS HD LEG
+http://supertv.io:80/1079604/593320/101158.ts
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="SYFY SD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/Syfy.png" group-title="Canais BR | Legendados",SYFY SD LEG
+http://supertv.io:80/1079604/593320/100510.ts
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="SYFY HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/Syfy.png" group-title="Canais BR | Legendados",SYFY HD LEG
+http://supertv.io:80/1079604/593320/100509.ts
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="SYFY FHD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/Syfy.png" group-title="Canais BR | Legendados",SYFY FHD LEG
+http://supertv.io:80/1079604/593320/100508.ts
+#EXTINF:-1 tvg-id="SETLHD" tvg-name="Canal Sony HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/Sony.png" group-title="Canais BR | Legendados",Canal Sony HD LEG
+http://supertv.io:80/1079604/593320/101143.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/Warner.png" group-title="Canais BR | Legendados",Warner Channel HD LEG
+http://supertv.io:80/1079604/593320/101144.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/space.png" group-title="Canais BR | Legendados",Space HD LEG
+http://supertv.io:80/1079604/593320/101146.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/Megapix.png" group-title="Canais BR | Legendados",Megapix HD LEG
+http://supertv.io:80/1079604/593320/101147.ts
+#EXTINF:-1 tvg-id="FXLAHDA" tvg-name="FX HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/FX.png" group-title="Canais BR | Legendados",FX HD LEG
+http://supertv.io:80/1079604/593320/101149.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/tnt.png" group-title="Canais BR | Legendados",TNT HD LEG
+http://supertv.io:80/1079604/593320/101150.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel  HD LEG" tvg-logo="http://uploaddeimagens.com.br/images/003/639/996/original/Design_sem_nome_%2823%29.png?1642691434" group-title="Canais BR | Legendados",Star Channel  HD LEG
+http://supertv.io:80/1079604/593320/101160.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD LEG" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/AXN.png" group-title="Canais BR | Legendados",AXN HD LEG
+http://supertv.io:80/1079604/593320/101161.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo: PT" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/abertos/Globo.png" group-title="Canais | Portugal",Globo: PT
+http://supertv.io:80/1079604/593320/378289.ts
+#EXTINF:-1 tvg-id="CAN11" tvg-name="CANAL 11" tvg-logo="http://uploaddeimagens.com.br/images/003/639/108/full/Design_sem_nome_%289%29.png?1642638257" group-title="Canais | Portugal",CANAL 11
+http://supertv.io:80/1079604/593320/136333.ts
+#EXTINF:-1 tvg-id="CAN11" tvg-name="CANAL 11 HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/108/full/Design_sem_nome_%289%29.png?1642638257" group-title="Canais | Portugal",CANAL 11 HD
+http://supertv.io:80/1079604/593320/136332.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sporting TV FHD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/081/original/Design_sem_nome_%281%29.png?1642637247" group-title="Canais | Portugal",Sporting TV FHD
+http://supertv.io:80/1079604/593320/136363.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTING TV" tvg-logo="http://uploaddeimagens.com.br/images/003/639/081/original/Design_sem_nome_%281%29.png?1642637247" group-title="Canais | Portugal",SPORTING TV
+http://supertv.io:80/1079604/593320/136364.ts
+#EXTINF:-1 tvg-id="Like.br" tvg-name="BTV FHD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/072/original/Design_sem_nome.png?1642637019" group-title="Canais | Portugal",BTV FHD
+http://supertv.io:80/1079604/593320/136367.ts
+#EXTINF:-1 tvg-id="Like.br" tvg-name="BTV HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/072/original/Design_sem_nome.png?1642637019" group-title="Canais | Portugal",BTV HD
+http://supertv.io:80/1079604/593320/136368.ts
+#EXTINF:-1 tvg-id="Like.br" tvg-name="BTV" tvg-logo="http://uploaddeimagens.com.br/images/003/639/072/original/Design_sem_nome.png?1642637019" group-title="Canais | Portugal",BTV
+http://supertv.io:80/1079604/593320/136369.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sport TV + SD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/036/original/Design_sem_nome_%286%29.png?1642635767" group-title="Canais | Portugal",Sport TV + SD
+http://supertv.io:80/1079604/593320/136397.ts
+#EXTINF:-1 tvg-id="8SPORT" tvg-name="Sport TV +  HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/036/original/Design_sem_nome_%286%29.png?1642635767" group-title="Canais | Portugal",Sport TV +  HD
+http://supertv.io:80/1079604/593320/136396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 SD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/040/full/Design_sem_nome_%287%29.png?1642635896" group-title="Canais | Portugal",Sport TV 1 SD
+http://supertv.io:80/1079604/593320/136394.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/044/original/Design_sem_nome_%289%29.png?1642636034" group-title="Canais | Portugal",Sport TV 1 HD
+http://supertv.io:80/1079604/593320/136393.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 SD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/042/original/Design_sem_nome_%288%29.png?1642635988" group-title="Canais | Portugal",Sport TV 2 SD
+http://supertv.io:80/1079604/593320/136386.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/042/original/Design_sem_nome_%288%29.png?1642635988" group-title="Canais | Portugal",Sport TV 2 HD
+http://supertv.io:80/1079604/593320/136385.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 SD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/051/original/Design_sem_nome_%2810%29.png?1642636230" group-title="Canais | Portugal",Sport TV 3 SD
+http://supertv.io:80/1079604/593320/136380.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/051/original/Design_sem_nome_%2810%29.png?1642636230" group-title="Canais | Portugal",Sport TV 3 HD
+http://supertv.io:80/1079604/593320/136379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 SD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/060/full/Design_sem_nome_%2811%29.png?1642636555" group-title="Canais | Portugal",Sport TV 4 SD
+http://supertv.io:80/1079604/593320/136377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/060/full/Design_sem_nome_%2811%29.png?1642636555" group-title="Canais | Portugal",Sport TV 4 HD
+http://supertv.io:80/1079604/593320/136376.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 SD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/062/full/Design_sem_nome_%2812%29.png?1642636677" group-title="Canais | Portugal",Sport TV 5 SD
+http://supertv.io:80/1079604/593320/136374.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/062/full/Design_sem_nome_%2812%29.png?1642636677" group-title="Canais | Portugal",Sport TV 5 HD
+http://supertv.io:80/1079604/593320/136373.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 6 HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/068/original/Design_sem_nome_%2813%29.png?1642636913" group-title="Canais | Portugal",Sport TV 6 HD
+http://supertv.io:80/1079604/593320/136371.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 Oficial" tvg-logo="http://uploaddeimagens.com.br/images/003/639/022/full/Design_sem_nome_%285%29.png?1642635575" group-title="Canais | Portugal",F1 Oficial
+http://supertv.io:80/1079604/593320/136398.ts
+#EXTINF:-1 tvg-id="FOXLFHD" tvg-name="Fox Life SD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/013/full/Design_sem_nome_%283%29.png?1642635255" group-title="Canais | Portugal",Fox Life SD
+http://supertv.io:80/1079604/593320/136402.ts
+#EXTINF:-1 tvg-id="FOXLFHD" tvg-name="Fox Life HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/013/full/Design_sem_nome_%283%29.png?1642635255" group-title="Canais | Portugal",Fox Life HD
+http://supertv.io:80/1079604/593320/136401.ts
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="Fox Comedy SD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/012/full/Design_sem_nome_%282%29.png?1642635123" group-title="Canais | Portugal",Fox Comedy SD
+http://supertv.io:80/1079604/593320/136405.ts
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="Fox Comedy HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/012/full/Design_sem_nome_%282%29.png?1642635123" group-title="Canais | Portugal",Fox Comedy HD
+http://supertv.io:80/1079604/593320/136404.ts
+#EXTINF:-1 tvg-id="TVHTANZ" tvg-name="Fox Crime SD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/011/original/Design_sem_nome_%281%29.png?1642635008" group-title="Canais | Portugal",Fox Crime SD
+http://supertv.io:80/1079604/593320/136408.ts
+#EXTINF:-1 tvg-id="TVHTANZ" tvg-name="Fox Crime HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/011/original/Design_sem_nome_%281%29.png?1642635008" group-title="Canais | Portugal",Fox Crime HD
+http://supertv.io:80/1079604/593320/136407.ts
+#EXTINF:-1 tvg-id="TVHTANZ" tvg-name="Fox Crime FHD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/011/original/Design_sem_nome_%281%29.png?1642635008" group-title="Canais | Portugal",Fox Crime FHD
+http://supertv.io:80/1079604/593320/136406.ts
+#EXTINF:-1 tvg-id="FXSAMCH" tvg-name="FOX" tvg-logo="http://uploaddeimagens.com.br/images/003/639/010/original/Design_sem_nome.png?1642634840" group-title="Canais | Portugal",FOX
+http://supertv.io:80/1079604/593320/136411.ts
+#EXTINF:-1 tvg-id="FXKDG" tvg-name="Fox HD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/010/original/Design_sem_nome.png?1642634840" group-title="Canais | Portugal",Fox HD
+http://supertv.io:80/1079604/593320/136410.ts
+#EXTINF:-1 tvg-id="FXKDG" tvg-name="Fox FHD" tvg-logo="http://uploaddeimagens.com.br/images/003/639/010/original/Design_sem_nome.png?1642634840" group-title="Canais | Portugal",Fox FHD
+http://supertv.io:80/1079604/593320/136409.ts
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="SYFY" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/Syfy.png" group-title="Canais | Portugal",SYFY
+http://supertv.io:80/1079604/593320/136412.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN MOVIES" tvg-logo="http://uploaddeimagens.com.br/images/003/639/001/original/Design_sem_nome_%2810%29.png?1642634429" group-title="Canais | Portugal",AXN MOVIES
+http://supertv.io:80/1079604/593320/136415.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN MOVIES  HD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/999/full/Design_sem_nome_%289%29.png?1642634278" group-title="Canais | Portugal",AXN MOVIES  HD
+http://supertv.io:80/1079604/593320/136414.ts
+#EXTINF:-1 tvg-id="AXNWESP" tvg-name="AXN WHITE" tvg-logo="http://uploaddeimagens.com.br/images/003/638/997/original/Design_sem_nome_%288%29.png?1642634164" group-title="Canais | Portugal",AXN WHITE
+http://supertv.io:80/1079604/593320/136418.ts
+#EXTINF:-1 tvg-id="AXNWESP" tvg-name="AXN WHITE HD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/997/original/Design_sem_nome_%288%29.png?1642634164" group-title="Canais | Portugal",AXN WHITE HD
+http://supertv.io:80/1079604/593320/136417.ts
+#EXTINF:-1 tvg-id="AXNKDG" tvg-name="AXN" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Filmes&Series/AXN.png" group-title="Canais | Portugal",AXN
+http://supertv.io:80/1079604/593320/136419.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD PT" tvg-logo="http://uploaddeimagens.com.br/images/003/638/975/full/Design_sem_nome_%286%29.png?1642633633" group-title="Canais | Portugal",HBO HD PT
+http://supertv.io:80/1079604/593320/136425.ts
+#EXTINF:-1 tvg-id="Sic.br" tvg-name="SIC NOTICIAS HD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/933/original/sicnoticias.png?1642630444" group-title="Canais | Portugal",SIC NOTICIAS HD
+http://supertv.io:80/1079604/593320/136460.ts
+#EXTINF:-1 tvg-id="Sic.br" tvg-name="SIC NOTICIAS SD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/933/original/sicnoticias.png?1642630444" group-title="Canais | Portugal",SIC NOTICIAS SD
+http://supertv.io:80/1079604/593320/136461.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 SD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/924/original/rtp3_%281%29.png?1642629823" group-title="Canais | Portugal",RTP 3 SD
+http://supertv.io:80/1079604/593320/136465.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 HD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/924/original/rtp3_%281%29.png?1642629823" group-title="Canais | Portugal",RTP 3 HD
+http://supertv.io:80/1079604/593320/136464.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24 SD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/920/original/cmtv_%281%29.png?1642629707" group-title="Canais | Portugal",TVI 24 SD
+http://supertv.io:80/1079604/593320/136468.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24 HD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/920/original/cmtv_%281%29.png?1642629707" group-title="Canais | Portugal",TVI 24 HD
+http://supertv.io:80/1079604/593320/136467.ts
+#EXTINF:-1 tvg-id="CMTVPOR" tvg-name="CMTV SD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/917/original/cmtv.png?1642629609" group-title="Canais | Portugal",CMTV SD
+http://supertv.io:80/1079604/593320/136471.ts
+#EXTINF:-1 tvg-id="CMTVPOR" tvg-name="CMTV HD" tvg-logo="http://uploaddeimagens.com.br/images/003/638/917/original/cmtv.png?1642629609" group-title="Canais | Portugal",CMTV HD
+http://supertv.io:80/1079604/593320/136470.ts
+#EXTINF:-1 tvg-id="FYI" tvg-name="FYI" tvg-logo="http://uploaddeimagens.com.br/images/003/640/800/original/Design_sem_nome_%286%29.png?1642706807" group-title="Canais | USA",FYI
+http://supertv.io:80/1079604/593320/136667.ts
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="http://uploaddeimagens.com.br/images/003/640/853/full/Design_sem_nome_%2810%29.png?1642707361" group-title="Canais | USA",FXX
+http://supertv.io:80/1079604/593320/136668.ts
+#EXTINF:-1 tvg-id="FXM" tvg-name="FXM" tvg-logo="http://uploaddeimagens.com.br/images/003/640/844/full/Design_sem_nome_%289%29.png?1642707296" group-title="Canais | USA",FXM
+http://supertv.io:80/1079604/593320/136669.ts
+#EXTINF:-1 tvg-id="FXLE" tvg-name="FX U.S" tvg-logo="http://uploaddeimagens.com.br/images/003/640/869/original/Design_sem_nome_%2811%29.png?1642707494" group-title="Canais | USA",FX U.S
+http://supertv.io:80/1079604/593320/136670.ts
+#EXTINF:-1 tvg-id="FXLE" tvg-name="FX HD U.S" tvg-logo="http://uploaddeimagens.com.br/images/003/640/869/original/Design_sem_nome_%2811%29.png?1642707494" group-title="Canais | USA",FX HD U.S
+http://supertv.io:80/1079604/593320/136671.ts
+#EXTINF:-1 tvg-id="FUSIONH" tvg-name="USL- FUSION HD" tvg-logo="http://uploaddeimagens.com.br/images/003/640/889/original/Design_sem_nome_%2812%29.png?1642707759" group-title="Canais | USA",USL- FUSION HD
+http://supertv.io:80/1079604/593320/136672.ts
+#EXTINF:-1 tvg-id="FUSE" tvg-name="FUSE" tvg-logo="http://uploaddeimagens.com.br/images/003/640/899/original/Design_sem_nome_%2814%29.png?1642707855" group-title="Canais | USA",FUSE
+http://supertv.io:80/1079604/593320/136673.ts
+#EXTINF:-1 tvg-id="GFREFM" tvg-name="FREEFORM" tvg-logo="http://uploaddeimagens.com.br/images/003/640/916/full/Design_sem_nome_%2815%29.png?1642708033" group-title="Canais | USA",FREEFORM
+http://supertv.io:80/1079604/593320/136674.ts
+#EXTINF:-1 tvg-id="FSW" tvg-name="FOX SPORTS WEST" tvg-logo="http://uploaddeimagens.com.br/images/003/640/942/full/Design_sem_nome_%2817%29.png?1642708395" group-title="Canais | USA",FOX SPORTS WEST
+http://supertv.io:80/1079604/593320/136676.ts
+#EXTINF:-1 tvg-id="FSSNFTP" tvg-name="FOX SPORTS SUN" tvg-logo="http://uploaddeimagens.com.br/images/003/640/944/original/Design_sem_nome_%2818%29.png?1642708475" group-title="Canais | USA",FOX SPORTS SUN
+http://supertv.io:80/1079604/593320/136677.ts
+#EXTINF:-1 tvg-id="FSOHHD" tvg-name="FOX SPORTS OHIO" tvg-logo="http://uploaddeimagens.com.br/images/003/640/954/original/Design_sem_nome_%2819%29.png?1642708562" group-title="Canais | USA",FOX SPORTS OHIO
+http://supertv.io:80/1079604/593320/136678.ts
+#EXTINF:-1 tvg-id="FSSOMS2" tvg-name="FOX SPORTS SOUTH" tvg-logo="http://uploaddeimagens.com.br/images/003/640/964/full/Design_sem_nome_%2822%29.png?1642708787" group-title="Canais | USA",FOX SPORTS SOUTH
+http://supertv.io:80/1079604/593320/136679.ts
+#EXTINF:-1 tvg-id="PTVFOXS" tvg-name="FOX SPORTS SOCCER PLUS" tvg-logo="http://uploaddeimagens.com.br/images/003/640/976/original/Design_sem_nome_%2823%29.png?1642709033" group-title="Canais | USA",FOX SPORTS SOCCER PLUS
+http://supertv.io:80/1079604/593320/136681.ts
+#EXTINF:-1 tvg-id="FSSDNM" tvg-name="FOX SPORTS SAN DIEGO" tvg-logo="http://uploaddeimagens.com.br/images/003/641/180/original/Design_sem_nome_%2824%29.png?1642712643" group-title="Canais | USA",FOX SPORTS SAN DIEGO
+http://supertv.io:80/1079604/593320/136682.ts
+#EXTINF:-1 tvg-id="FSSDHI" tvg-name="USL- FOX SPORTS SAN ANTONIO HD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/USA/USLFox.png" group-title="Canais | USA",USL- FOX SPORTS SAN ANTONIO HD
+http://supertv.io:80/1079604/593320/136683.ts
+#EXTINF:-1 tvg-id="FSPT4" tvg-name="USL- FOX SPORTS PRIME TICKET  HD" tvg-logo="http://uploaddeimagens.com.br/images/003/640/790/full/Design_sem_nome_%285%29.png?1642706659" group-title="Canais | USA",USL- FOX SPORTS PRIME TICKET  HD
+http://supertv.io:80/1079604/593320/136684.ts
+#EXTINF:-1 tvg-id="FSS4OM" tvg-name="FOX SPORTS OKLAHOMA" tvg-logo="http://uploaddeimagens.com.br/images/003/641/194/original/Design_sem_nome_%2825%29.png?1642712990" group-title="Canais | USA",FOX SPORTS OKLAHOMA
+http://supertv.io:80/1079604/593320/136685.ts
+#EXTINF:-1 tvg-id="FSOHHD" tvg-name="FOX SPORTS OHIO" tvg-logo="http://uploaddeimagens.com.br/images/003/640/954/original/Design_sem_nome_%2819%29.png?1642708562" group-title="Canais | USA",FOX SPORTS OHIO
+http://supertv.io:80/1079604/593320/136686.ts
+#EXTINF:-1 tvg-id="FSFLDHN" tvg-name="FOX SPORTS FLORIDA" tvg-logo="http://uploaddeimagens.com.br/images/003/641/199/original/Design_sem_nome_%2826%29.png?1642713189" group-title="Canais | USA",FOX SPORTS FLORIDA
+http://supertv.io:80/1079604/593320/136688.ts
+#EXTINF:-1 tvg-id="FSDOH2" tvg-name="FOX SPORTS DETROID" tvg-logo="http://uploaddeimagens.com.br/images/003/641/202/original/Design_sem_nome_%2827%29.png?1642713271" group-title="Canais | USA",FOX SPORTS DETROID
+http://supertv.io:80/1079604/593320/136689.ts
+#EXTINF:-1 tvg-id="FSA2HD" tvg-name="FOX SPORTS ARIZONA" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Esportes/foxsportarizona.png" group-title="Canais | USA",FOX SPORTS ARIZONA
+http://supertv.io:80/1079604/593320/136690.ts
+#EXTINF:-1 tvg-id="FS2" tvg-name="FOX SPORTS 2 U.S" tvg-logo="http://uploaddeimagens.com.br/images/003/641/208/original/Design_sem_nome.png?1642713479" group-title="Canais | USA",FOX SPORTS 2 U.S
+http://supertv.io:80/1079604/593320/136691.ts
+#EXTINF:-1 tvg-id="FS1" tvg-name="FOX SPORTS 1 U.S" tvg-logo="http://uploaddeimagens.com.br/images/003/641/218/original/Design_sem_nome_%281%29.png?1642713661" group-title="Canais | USA",FOX SPORTS 1 U.S
+http://supertv.io:80/1079604/593320/136692.ts
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX PHOENIX" tvg-logo="http://uploaddeimagens.com.br/images/003/641/222/original/Design_sem_nome_%282%29.png?1642713868" group-title="Canais | USA",FOX PHOENIX
+http://supertv.io:80/1079604/593320/136693.ts
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX ORLANDO" tvg-logo="http://uploaddeimagens.com.br/images/003/641/233/full/Design_sem_nome_%285%29.png?1642714110" group-title="Canais | USA",FOX ORLANDO
+http://supertv.io:80/1079604/593320/136694.ts
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX MIAMI" tvg-logo="http://uploaddeimagens.com.br/images/003/641/273/original/Design_sem_nome_%287%29.png?1642714839" group-title="Canais | USA",FOX MIAMI
+http://supertv.io:80/1079604/593320/136698.ts
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX LOS ANGELES" tvg-logo="http://uploaddeimagens.com.br/images/003/641/280/original/Design_sem_nome_%288%29.png?1642714904" group-title="Canais | USA",FOX LOS ANGELES
+http://supertv.io:80/1079604/593320/136699.ts
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX DETROIT" tvg-logo="http://uploaddeimagens.com.br/images/003/641/228/original/Design_sem_nome_%284%29.png?1642714020" group-title="Canais | USA",FOX DETROIT
+http://supertv.io:80/1079604/593320/136700.ts
+#EXTINF:-1 tvg-id="FBNP" tvg-name="FOX BUSINESS NETWORK" tvg-logo="http://uploaddeimagens.com.br/images/003/641/292/original/Design_sem_nome_%289%29.png?1642715042" group-title="Canais | USA",FOX BUSINESS NETWORK
+http://supertv.io:80/1079604/593320/136701.ts
+#EXTINF:-1 tvg-id="ATL21" tvg-name="FOX ATLANTA" tvg-logo="http://uploaddeimagens.com.br/images/003/641/301/original/Design_sem_nome_%2810%29.png?1642715130" group-title="Canais | USA",FOX ATLANTA
+http://supertv.io:80/1079604/593320/136703.ts
+#EXTINF:-1 tvg-id="FOXI" tvg-name="FOX CHICAGO" tvg-logo="http://uploaddeimagens.com.br/images/003/641/326/original/Design_sem_nome_%2812%29.png?1642715360" group-title="Canais | USA",FOX CHICAGO
+http://supertv.io:80/1079604/593320/136705.ts
+#EXTINF:-1 tvg-id="FOOD" tvg-name="USL- FOOD NETWORK HD" tvg-logo="http://uploaddeimagens.com.br/images/003/640/775/original/Design_sem_nome_%284%29.png?1642706457" group-title="Canais | USA",USL- FOOD NETWORK HD
+http://supertv.io:80/1079604/593320/136706.ts
+#EXTINF:-1 tvg-id="CHNNL5" tvg-name="Channel 5 FHD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Canais-UK/Channel5.png" group-title="Canais | UK",Channel 5 FHD
+http://supertv.io:80/1079604/593320/148167.ts
+#EXTINF:-1 tvg-id="CHNNL4" tvg-name="Channel 4" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Canais-UK/Channel4.png" group-title="Canais | UK",Channel 4
+http://supertv.io:80/1079604/593320/148168.ts
+#EXTINF:-1 tvg-id="ITVP1LN" tvg-name="ITV HD +" tvg-logo="http://fanc.tmsimg.com/assets/s65160_ll_h3_aa.png" group-title="Canais | UK",ITV HD +
+http://supertv.io:80/1079604/593320/148172.ts
+#EXTINF:-1 tvg-id="ITV2" tvg-name="ITV2 HD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Canais-UK/itv2.png" group-title="Canais | UK",ITV2 HD
+http://supertv.io:80/1079604/593320/148171.ts
+#EXTINF:-1 tvg-id="ITVTHREE" tvg-name="ITV3 HD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Canais-UK/itv3.png" group-title="Canais | UK",ITV3 HD
+http://supertv.io:80/1079604/593320/148170.ts
+#EXTINF:-1 tvg-id="ITV4" tvg-name="ITV4 HD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Canais-UK/itv4.png" group-title="Canais | UK",ITV4 HD
+http://supertv.io:80/1079604/593320/148169.ts
+#EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC HD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Canais-UK/cbbc.png" group-title="Canais | UK",CBBC HD
+http://supertv.io:80/1079604/593320/148173.ts
+#EXTINF:-1 tvg-id="BBCWSVC" tvg-name="USL- BBC WORLD NEWS HD" tvg-logo="http://uploaddeimagens.com.br/images/003/640/756/original/Design_sem_nome_%281%29.png?1642706147" group-title="Canais | USA",USL- BBC WORLD NEWS HD
+http://supertv.io:80/1079604/593320/148174.ts
+#EXTINF:-1 tvg-id="BBCAHD" tvg-name="USL - BBC AMERICA HD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/desenho24h/%20BBC%20AMERICA%20HD.png" group-title="Canais | USA",USL - BBC AMERICA HD
+http://supertv.io:80/1079604/593320/148175.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen  HD" tvg-logo="http://www.cagdaselektronik.tv.tr/wp-content/uploads/24Kitchen-TV-logo.jpg" group-title="Canais | Portugal",24 Kitchen  HD
+http://supertv.io:80/1079604/593320/378047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Afro Music" tvg-logo="http://1.bp.blogspot.com/-adGHhxx20WI/UnYi6dL-rII/AAAAAAAACJA/66ekjOyZPcM/s1600/afro_music_pop-01-1+CANAL+82.jpg" group-title="Canais | Portugal",Afro Music
+http://supertv.io:80/1079604/593320/378048.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARTV" tvg-logo="http://mytuner.global.ssl.fastly.net/media/tvos_radios/7tr2gd5mllfe.png" group-title="Canais | Portugal",ARTV
+http://supertv.io:80/1079604/593320/378049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Benfica TV 1" tvg-logo="http://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV.jpeg" group-title="Canais | Portugal",Benfica TV 1
+http://supertv.io:80/1079604/593320/378050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blaze" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1200px-Blaze_-_2016_logo.svg.png" group-title="Canais | Portugal",Blaze
+http://supertv.io:80/1079604/593320/378051.ts
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Canal Panda" tvg-logo="http://tse1.mm.bing.net/th?id=OIP.5boA97EUWm7Ax3cOw0fkjQHaD8&pid=Api&P=0" group-title="Canais | Portugal",Canal Panda
+http://supertv.io:80/1079604/593320/378052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Porto" tvg-logo="http://tse4.mm.bing.net/th?id=OIP.jfRIC4UpKAvgJd3xzA22gwHaDV&pid=Api&P=0" group-title="Canais | Portugal",Canal Porto
+http://supertv.io:80/1079604/593320/378053.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Q" tvg-logo="http://img2.wikia.nocookie.net/__cb20140413135010/logopedia/images/e/e8/Canal_Q_2012.png" group-title="Canais | Portugal",Canal Q
+http://supertv.io:80/1079604/593320/378054.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="http://cdn.4gnews.pt/imagens/cartoon-network-canal-animacao-min-og.jpg" group-title="Canais | Portugal",Cartoon Network
+http://supertv.io:80/1079604/593320/378055.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa e Cozinha FHD" tvg-logo="http://incomummagazine.com/media/k2/items/cache/da388805d72915b428bc7670a13b37e3_XL.jpg" group-title="Canais | Portugal",Casa e Cozinha FHD
+http://supertv.io:80/1079604/593320/378056.ts
+#EXTINF:-1 tvg-id="" tvg-name="CaçaVision" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2020/05/CACAVISION-768x540.png" group-title="Canais | Portugal",CaçaVision
+http://supertv.io:80/1079604/593320/378278.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality" tvg-logo="http://tse1.mm.bing.net/th?id=OIP.y2CaHm2DV1Iw6d-c28jf3QHaEK&pid=Api&P=0" group-title="Canais | Portugal",CBS Reality
+http://supertv.io:80/1079604/593320/378279.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://tse4.mm.bing.net/th?id=OIP.dLP4x7pl3Lcc-ZqsLyKBKQHaFM&pid=Api&P=0" group-title="Canais | Portugal",CNN
+http://supertv.io:80/1079604/593320/378280.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Arena" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/rtpArena_monocromaticoPositivo.png" group-title="Canais | Portugal",RTP Arena
+http://supertv.io:80/1079604/593320/378281.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel" tvg-logo="http://tse1.mm.bing.net/th?id=OIP.s67ZO9I38semdBn_WEw8UgHaFL&pid=Api&P=0" group-title="Canais | Portugal",Discovery Channel
+http://supertv.io:80/1079604/593320/378282.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="http://tse1.mm.bing.net/th?id=OIP.s67ZO9I38semdBn_WEw8UgHaFL&pid=Api&P=0" group-title="Canais | Portugal",Discovery Channel FHD
+http://supertv.io:80/1079604/593320/378283.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="http://tse3.mm.bing.net/th?id=OIP.XryqcrX9bqGZqqgbfXuEUgHaEK&pid=Api&P=0" group-title="Canais | Portugal",Disney Channel
+http://supertv.io:80/1079604/593320/378284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://media.sketchfab.com/models/0d2e630d20714d2c9bf7fa87cd17cad3/thumbnails/6fb5b2a71edd459fac6abb040148672d/5d5a4670e8d649e3b3483575853425d0.jpeg" group-title="Canais | Portugal",Disney Junior
+http://supertv.io:80/1079604/593320/378285.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! Entertainment" tvg-logo="http://tse4.mm.bing.net/th?id=OIP.5Mgk1TUKjs5VQ3py5WNGtQHaFj&pid=Api&P=0" group-title="Canais | Portugal",E! Entertainment
+http://supertv.io:80/1079604/593320/378286.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="http://www.ilovesatellitetv.com/images/fuel-tv.jpg" group-title="Canais | Portugal",FUEL TV
+http://supertv.io:80/1079604/593320/378288.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="Historia" tvg-logo="http://tse4.mm.bing.net/th?id=OIP.tslCuF0wZ6na2MdjpfKI0AAAAA&pid=Api&P=0" group-title="Canais | Portugal",Historia
+http://supertv.io:80/1079604/593320/378292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://mma.prnewswire.com/media/546275/Investigation_Discovery_Logo.jpg?p=facebook" group-title="Canais | Portugal",Investigation Discovery
+http://supertv.io:80/1079604/593320/378293.ts
+#EXTINF:-1 tvg-id="" tvg-name="JIM JAM" tvg-logo="http://tse2.mm.bing.net/th?id=OIP.6DcDYgs3ZSqMypYSh3w57AHaDt&pid=Api&P=0" group-title="Canais | Portugal",JIM JAM
+http://supertv.io:80/1079604/593320/378294.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="http://logonoid.com/images/mcm-pop-logo.png" group-title="Canais | Portugal",MCM Pop
+http://supertv.io:80/1079604/593320/378295.ts
+#EXTINF:-1 tvg-id="" tvg-name="MotorVision" tvg-logo="http://tse2.mm.bing.net/th?id=OIP.qcRUU54zpHNWv4tj9edGgQHaFg&pid=Api&P=0" group-title="Canais | Portugal",MotorVision
+http://supertv.io:80/1079604/593320/378296.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="http://www.mundoplus.tv/wp-content/uploads/2021/05/mtv00s.jpg" group-title="Canais | Portugal",MTV 00s
+http://supertv.io:80/1079604/593320/378297.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Portugal" tvg-logo="http://3.bp.blogspot.com/_X_cyF-uArBk/TGmakNmrlUI/AAAAAAAAAXU/FgZK6sgvCog/s320/mtv-logo_-ls09_por-300x297.jpg" group-title="Canais | Portugal",MTV Portugal
+http://supertv.io:80/1079604/593320/378298.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Portugal FHD" tvg-logo="http://3.bp.blogspot.com/_X_cyF-uArBk/TGmakNmrlUI/AAAAAAAAAXU/FgZK6sgvCog/s320/mtv-logo_-ls09_por-300x297.jpg" group-title="Canais | Portugal",MTV Portugal FHD
+http://supertv.io:80/1079604/593320/378299.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic" tvg-logo="http://1.bp.blogspot.com/--dC5kLhWyP0/YRp_rLo2j7I/AAAAAAAAAT0/aNI1XX8O8wQeHWfRoB6LQvrYOuvnXyfDgCLcBGAsYHQ/s800/National-Geographic-NatGeo-ao-vivo-hdtv-canal-tv-online-assistir-gratis-agora-hd-tablet-smartphone-notebook-smartv-computador-tv-box.jpg" group-title="Canais | Portugal",National Geographic
+http://supertv.io:80/1079604/593320/378302.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="http://1.bp.blogspot.com/--dC5kLhWyP0/YRp_rLo2j7I/AAAAAAAAAT0/aNI1XX8O8wQeHWfRoB6LQvrYOuvnXyfDgCLcBGAsYHQ/s800/National-Geographic-NatGeo-ao-vivo-hdtv-canal-tv-online-assistir-gratis-agora-hd-tablet-smartphone-notebook-smartv-computador-tv-box.jpg" group-title="Canais | Portugal",National Geographic FHD
+http://supertv.io:80/1079604/593320/378303.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="http://1.bp.blogspot.com/--dC5kLhWyP0/YRp_rLo2j7I/AAAAAAAAAT0/aNI1XX8O8wQeHWfRoB6LQvrYOuvnXyfDgCLcBGAsYHQ/s800/National-Geographic-NatGeo-ao-vivo-hdtv-canal-tv-online-assistir-gratis-agora-hd-tablet-smartphone-notebook-smartv-computador-tv-box.jpg" group-title="Canais | Portugal",National Geographic HD
+http://supertv.io:80/1079604/593320/378304.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick JR" tvg-logo="http://e7.pngegg.com/pngimages/172/337/png-clipart-logo-nick-jr-television-channel-nicktoons-nickelodeon-victorious-television-text.png" group-title="Canais | Portugal",Nick JR
+http://supertv.io:80/1079604/593320/378305.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Infantil/Nickelodeon.png" group-title="Canais | Portugal",Nickelodeon
+http://supertv.io:80/1079604/593320/378319.ts
+#EXTINF:-1 tvg-id="" tvg-name="Odisseia HD" tvg-logo="http://tse2.mm.bing.net/th?id=OIP.XgQMnNacd3P5j9fvHFkxSwHaHa&pid=Api&P=0" group-title="Canais | Portugal",Odisseia HD
+http://supertv.io:80/1079604/593320/378320.ts
+#EXTINF:-1 tvg-id="" tvg-name="Panda Biggs" tvg-logo="http://quinto-canal.com/wp-content/uploads/2012/05/Panda-Biggs.jpg" group-title="Canais | Portugal",Panda Biggs
+http://supertv.io:80/1079604/593320/378321.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC" tvg-logo="http://tse1.mm.bing.net/th?id=OIP.s8piA18reb1cSt6gzQi73wHaHa&pid=Api&P=0" group-title="Canais | Portugal",PFC
+http://supertv.io:80/1079604/593320/378322.ts
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="SIC HD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/warez/canaisPT/SIC.png" group-title="Canais | Portugal",SIC HD
+http://supertv.io:80/1079604/593320/388313.ts
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="SIC KIDS HD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/warez/canaisPT/sic%20k.png" group-title="Canais | Portugal",SIC KIDS HD
+http://supertv.io:80/1079604/593320/388315.ts
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="SIC MULHER HD" tvg-logo="http://3.bp.blogspot.com/-ciBODD6GPNo/Vt7ABwyzfNI/AAAAAAAAQZ8/3g0lz7_o5J8/s1600/Sic%2Bmulher.jpg" group-title="Canais | Portugal",SIC MULHER HD
+http://supertv.io:80/1079604/593320/388316.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL FHD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/warez/Portugal/Entretenimento/sic%20radical.png" group-title="Canais | Portugal",SIC RADICAL FHD
+http://supertv.io:80/1079604/593320/388317.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="http://i.ibb.co/N1rnyTS/redbulltv.jpg" group-title="Canais | Portugal",Red Bull TV HD
+http://supertv.io:80/1079604/593320/389095.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras SD" tvg-logo="http://i.imgur.com/n8MiEHQ.png" group-title="Canais | Portugal",SIC Caras SD
+http://supertv.io:80/1079604/593320/601936.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras HD" tvg-logo="http://i.imgur.com/n8MiEHQ.png" group-title="Canais | Portugal",SIC Caras HD
+http://supertv.io:80/1079604/593320/601937.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras FHD" tvg-logo="http://i.imgur.com/n8MiEHQ.png" group-title="Canais | Portugal",SIC Caras FHD
+http://supertv.io:80/1079604/593320/601938.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality SD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/warez/canaisPT/tvireality.png" group-title="Canais | Portugal",TVI Reality SD
+http://supertv.io:80/1079604/593320/601939.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality HD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/warez/canaisPT/tvireality.png" group-title="Canais | Portugal",TVI Reality HD
+http://supertv.io:80/1079604/593320/601940.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality FHD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/warez/canaisPT/tvireality.png" group-title="Canais | Portugal",TVI Reality FHD
+http://supertv.io:80/1079604/593320/601941.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC FHD" tvg-logo="http://i.ibb.co/c63M3Wm/sic.png" group-title="Canais | Portugal",SIC FHD
+http://supertv.io:80/1079604/593320/601968.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS SD" tvg-logo="http://i.ibb.co/Pz22NLm/sic-noticias.png" group-title="Canais | Portugal",SIC NOTICIAS SD
+http://supertv.io:80/1079604/593320/601969.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS HD" tvg-logo="http://i.ibb.co/Pz22NLm/sic-noticias.png" group-title="Canais | Portugal",SIC NOTICIAS HD
+http://supertv.io:80/1079604/593320/601970.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS FHD" tvg-logo="http://i.ibb.co/Pz22NLm/sic-noticias.png" group-title="Canais | Portugal",SIC NOTICIAS FHD
+http://supertv.io:80/1079604/593320/601971.ts
+#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC HD" tvg-logo="http://i.ibb.co/hMSkBgB/m5-music.png" group-title="Canais | Portugal",M6 MUSIC HD
+http://supertv.io:80/1079604/593320/601974.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFRO MUSIC SD" tvg-logo="http://i.ibb.co/vZBg7HV/afro-music.png" group-title="Canais | Portugal",AFRO MUSIC SD
+http://supertv.io:80/1079604/593320/601975.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV+ FHD" tvg-logo="http://img-logo.ams3.cdn.digitaloceanspaces.com/warez/canaisPT/SPORTV.png" group-title="Canais | Portugal",SPORT TV+ FHD
+http://supertv.io:80/1079604/593320/602012.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 FHD" tvg-logo="http://i.ibb.co/J7n0pw5/sport-tv-1.png" group-title="Canais | Portugal",SPORT TV 1 FHD
+http://supertv.io:80/1079604/593320/602013.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 FHD" tvg-logo="http://i.ibb.co/KVfbwxL/sport-tv-2.png" group-title="Canais | Portugal",SPORT TV 2 FHD
+http://supertv.io:80/1079604/593320/602014.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 FHD" tvg-logo="http://i.ibb.co/BsLgXqW/sport-tv-3.png" group-title="Canais | Portugal",SPORT TV 3 FHD
+http://supertv.io:80/1079604/593320/602015.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 FHD" tvg-logo="http://i.ibb.co/2dgGcNj/sport-tv-4.png" group-title="Canais | Portugal",SPORT TV 4 FHD
+http://supertv.io:80/1079604/593320/602016.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 FHD" tvg-logo="http://i.ibb.co/0D4tbj9/sport-tv-5.png" group-title="Canais | Portugal",SPORT TV 5 FHD
+http://supertv.io:80/1079604/593320/602017.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6" tvg-logo="http://i.ibb.co/18ppGPv/sport-tv-6.png" group-title="Canais | Portugal",SPORT TV 6
+http://supertv.io:80/1079604/593320/602018.ts
